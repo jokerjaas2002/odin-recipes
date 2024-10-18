@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+body {
+  font-family:"Bebas Neue", sans-serif; ;
+  background-image: linear-gradient(rgba(125, 183, 212, 0.5),rgba(82, 23, 71, 0.3)),url(https://images.pexels.com/photos/784633/pexels-photo-784633.jpeg?auto=compress&cs=tinysrgb&w=400);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1,a {
+  color: rgb(29, 29, 30);
+}
